@@ -1,11 +1,11 @@
 from tkinter import *
 from tkinter import ttk
 
-Colors1 = "#000000" #Black
-Colors2 = "#feffff" #White_Color
-Colors3 = "#000000" #Blue_Color
-Colors4 = "#feffff" #Since_Color
-Colors5 = "#ff0000" #Orange_Color
+Colors1 = "#000000" #
+Colors2 = "#feffff" #
+Colors3 = "#000000" #
+Colors4 = "#feffff" #
+Colors5 = "#ff0000" #
 
 Windowwns=Tk()
 Windowwns.title("Github.com/cassioestevao")
